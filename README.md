@@ -169,5 +169,4 @@ sudo systemctl status php8.3-fpm
 
 Press `Ctrl+C` to stop.
 
-> [!SUCCESS]
-> Your server is up and running.
+> Your server is up and running. 🚀
